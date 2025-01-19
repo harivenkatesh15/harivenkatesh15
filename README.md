@@ -36,10 +36,8 @@ Welcome to my GitHub profile! I'm a **B.Tech Computer Science and Business Syste
 ![LeetCode Stats](https://leetcard.jacoblin.cool/harivenkatesh1505?theme)
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hari123&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari123&theme=radical" alt="GitHub Streak" />
-</p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harivenkatesh15&bg_color=000000&color=ffffff&line=2afe38&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🚀 Projects
 - 🌐 [Smart Education Platform](https://github.com/your-repo) - Gamification of education using **Phaser** and **MongoDB**.
