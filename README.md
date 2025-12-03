@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a **B.Tech Computer Science and Business Syste
 - 📊 [Data Visualization Tool](https://github.com/your-repo) - React-based tool for visualizing datasets.
 
 ## 🤝 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hari1505/)
 - 🐦 [Twitter](https://twitter.com/your-twitter)
 - 📧 [Email](mailto:your-email@example.com)
 
