@@ -39,14 +39,9 @@ Welcome to my GitHub profile! I'm a **B.Tech Computer Science and Business Syste
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harivenkatesh15&bg_color=000000&color=ffffff&line=2afe38&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🚀 Projects
-- 🌐 [Smart Education Platform](https://github.com/your-repo) - Gamification of education using **Phaser** and **MongoDB**.
-- 📊 [Data Visualization Tool](https://github.com/your-repo) - React-based tool for visualizing datasets.
-
 ## 🤝 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/hari1505/)
-- 🐦 [Twitter](https://twitter.com/your-twitter)
-- 📧 [Email](mailto:your-email@example.com)
+- 📧 [Email](mailto:harivenkatesh1505@gmail.com)
 
 ---
 
